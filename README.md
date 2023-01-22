@@ -4,4 +4,4 @@
 
 The aim of this project is to analyze some of  the problems faced by tracking algorithms, using a test video of a buoy representing a human at sea. The first requirement is the detection of the object, followed by the stabilization of the movements of the camera. The next step is keeping track of the object and estimating its distance from the rescue vessel. 
 
-*This project is part of the Data Science (2022-1A) course at the University of Twente*
+*This project is part of the Image Processing & Computer Vison (2022-1A) course at the University of Twente*
