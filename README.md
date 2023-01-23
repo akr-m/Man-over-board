@@ -1,4 +1,4 @@
-# Image Processing & Computer Vison: Man over board
+# Image Processing & Computer Vision: Man over board
 
 "Man overboard” is a situation where someone from a ship falls out at sea. In such circumstances it is very important to track the person to facilitate the rescue. The movement of the camera, along with the heavy waves and the movement of the person make the task difficult.
 
